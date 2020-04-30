@@ -228,6 +228,10 @@ a {
   margin-bottom: 8px;
 }
 
+.overviews__list-link {
+  color: #000000;
+}
+
 .overviews__list-link:hover,
 .overviews__list-link:focus {
   color: #FF7931;
